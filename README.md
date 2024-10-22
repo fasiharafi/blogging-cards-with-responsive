@@ -1,1 +1,1 @@
-# blogging-cards-with-responsive
+# blogging-cards-with-responsive.
